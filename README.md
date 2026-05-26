@@ -1,0 +1,2 @@
+# University-of-Information-Technology-Sciences--UITS-
+Official repository for projects, research initiatives, software engineering, cybersecurity, AI development, resources, and technology innovation associated with the University of Information Technology &amp; Sciences (UITS). This repository is visible for transparency, documentation, collaboration reference, and portfolio presentation purposes only. !
